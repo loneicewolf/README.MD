@@ -25,13 +25,18 @@ william-martens@protonmail.ch
 
 --------------
 
-### LinkedIn
+## LinkedIn
 
 https://www.linkedin.com/in/william-martens-16872717b/
 
-#### Stack Exchange: (Includes Stack Overflow, InfoSec, Linux&Unix, more)
+## Stack Exchange:
+    (Includes Stack Overflow, InfoSec, Linux&Unix, more)
 
 https://stackoverflow.com/users/14346786/william-martens
+
+## YouTube 
+    (Only for POCS, Demos)
+https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ
 
 --------------
 
