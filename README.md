@@ -10,7 +10,13 @@
      - -Cannot get enough of Programming. 
 
 
+
+ - Link to my Public Area at KeyBase (Pocs, Malwares, etc.)
+ 
+ https://keybase.pub/william_martens/
+
 ### Links To Various Sites &amp; Contact Information.
+
 
 ## Contact
 
@@ -24,6 +30,14 @@ william-martens@protonmail.ch
 https://stackoverflow.com/users/14346786/william-martens
 
 --------------
+
+Discord: Ken-Kaneki#3978
+
+KeyBase:  https://keybase.io/william_martens
+
+
+--------------
+
 
 
 ### Experiences
@@ -44,3 +58,5 @@ After after some time though, later I became very fascinated in a specific topic
 
 
 --------------
+
+
