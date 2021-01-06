@@ -77,6 +77,9 @@ After after some time though, later I became very fascinated in a specific topic
   https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/ 
 
 
+### (Note,  I have programmed C and C++ long long before I begun the course, I just wanted a proof that I actually **know** programming, so that's why I am going for the Professional Certificate, Because without it I cannot be certain that I **know** programming, or even doing it the right way.)
+
+
 --------------
 
 
