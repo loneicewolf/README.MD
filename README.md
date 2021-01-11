@@ -18,8 +18,11 @@
 
 
 
-### Edx Program Record 
+#### Edx Program Record 
 
+### (Professional Certificate Program Record)
+
+(updated) (2/7 courses complete in C - Programming with Linux)
 https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/
 
 
