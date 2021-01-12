@@ -39,7 +39,7 @@ william-martens@protonmail.ch
 --------------
 
 ## LinkedIn
-
+(updated, 2 courses complete) Moving on to course 3..
 https://www.linkedin.com/in/william-martens-16872717b/
 
 ## Stack Exchange:
