@@ -5,7 +5,7 @@
 - Additional Comment(s)?:
  - - A Swedish - 20Y old, very curious person.
   - - Too much into computing, way too much into information security and encryption. 
-   - - Have done some HTB's (Hack The Boxe)'s (But not too many of them though!) 
+   - - Have done some HTB's (Hack The Box)e's (But not too many of them though!) 
     - - Interested in Anything that malware/reverse engineering/Cryptography/Information Security has to offer.
      - -Cannot get enough of Programming. 
 
