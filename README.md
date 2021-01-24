@@ -1,5 +1,17 @@
 ### About Me
 
+Keywords: Stuxnet Fanny.bmp HDD-Firmware rootkit , Reverse Engineering, Malware analysis,Book cipher in Pytho3 & jupyter, Drivers and Programming, infosec, Cryptography.
+
+ - https://github.com/loneicewolf/fanny.bmp
+ - https://github.com/loneicewolf/Stuxnet-Source
+ - https://github.com/loneicewolf/HDD-Firmware-RE
+ - https://github.com/loneicewolf/Pract_Rev_Engineering
+ - 
+ - 
+
+<- keywords only, nothing special.
+
+
 - Name:William Martens, goes by 'Will'
 - Topic(s) Interested in: Cryptography, Information security, Malware Analysis, Reverse engineering. Programming way too much at home.
 - Additional Comment(s)?:
