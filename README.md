@@ -34,7 +34,7 @@ Keywords: Stuxnet Fanny.bmp HDD-Firmware rootkit , Reverse Engineering, Malware 
 
 ### (Professional Certificate Program Record)
 
-(updated v2) (3/7 courses complete in C - Programming with Linux)
+(updated v2) (4/7 courses complete in C - Programming with Linux)
 https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/
 
 
@@ -51,7 +51,6 @@ william-martens@protonmail.ch
 --------------
 
 ## LinkedIn
-(updated, 2 courses complete) Moving on to course 3..
 https://www.linkedin.com/in/william-martens-16872717b/
 
 ## Stack Exchange:
@@ -91,7 +90,7 @@ After after some time though, later I became very fascinated in a specific topic
   - [x]  C Programming: Getting Started
   - [x]  C Programming: Language Foundations 
   - [x]  C Programming: Modular Programming and Memory Management
-  
+  - [x]  C Programming: Pointers and Memory Management
   - [ ]  **Professional Certificate inC Programming with Linux** Not Yet Done. **(Partially Completed)** (Coming trough! - and that is quickly..)
   https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/ 
 
