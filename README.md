@@ -34,7 +34,7 @@ Keywords: Stuxnet Fanny.bmp HDD-Firmware rootkit , Reverse Engineering, Malware 
 
 ### (Professional Certificate Program Record)
 
-(updated v2) (4/7 courses complete in C - Programming with Linux)
+(updated v2) (5/7 courses complete in C - Programming with Linux)
 https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/
 
 
