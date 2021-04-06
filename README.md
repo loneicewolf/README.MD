@@ -92,7 +92,8 @@ After after some time though, later I became very fascinated in a specific topic
   - [x]  C Programming: Modular Programming and Memory Management
   - [x]  C Programming: Pointers and Memory Management
   - [x]  C Programming: C Programming: Advanced Data Types: 96% of 100% Done.
-  - [ \ ]  **C Programming: Linux Basics: The Command Line Interface**  *currently here*
+  - [ \ ]  **C Programming: Linux Basics: The Command Line Interface**  *currently here* (I have used Linux and CLI a **lot** in my entire life, more than Windows - (I have even gamed on Hardware Virtualized Machines,(HVM) using Arch and Qemu - with GPU Passtrough) so It'll be interesting to refresh some basics.
+  - (tutorial of above HVM can be found on my GitHub page)
   - [ ]  C Programming: Using Linux Tools and Libraries 
   - [ ]  **Professional Certificate inC Programming with Linux** Not Yet Done. **(Partially Completed)** (Coming trough! - and that is quickly..)
   https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/ 
