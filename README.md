@@ -95,8 +95,7 @@ After after some time though, later I became very fascinated in a specific topic
   - [x]  C Programming: Pointers and Memory Management
   - [x]  C Programming: C Programming: Advanced Data Types
   - [x]  C Programming: Linux Basics: The Command Line Interface
-  - [ ]  C Programming: Using Linux Tools and Libraries **Last one - Currently here!** 
-  - [ ]  **Professional Certificate inC Programming with Linux** Not Yet Done. **(Partially Completed)** (Coming trough! - and that is quickly..)
+  - [ ]  C Programming: Using Linux Tools and Libraries **Last one - Currently here!** **Professional Certificate inC Programming with Linux** Not Yet Done. **(Partially Completed)** (Coming trough! - and that is quickly..)
   https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/ 
 
 
