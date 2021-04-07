@@ -87,20 +87,23 @@ After after some time though, later I became very fascinated in a specific topic
 #### Certifications:
   - [x] Cryptography I Stanford University https://coursera.org/share/86b7ad20156fa1ec1eead7ddb5cba366  (**First course I completed at the age of 20 or so, 2020 September, 22:**)
   
+  
+  
   - [x]  C Programming: Getting Started
   - [x]  C Programming: Language Foundations 
   - [x]  C Programming: Modular Programming and Memory Management
   - [x]  C Programming: Pointers and Memory Management
   - [x]  C Programming: C Programming: Advanced Data Types
-  - [ \ ]  **C Programming: Linux Basics: The Command Line Interface**  *currently here* (I have used Linux and CLI a **lot** in my entire life, more than Windows - (I have even gamed on Hardware Virtualized Machines,(HVM) using Arch and Qemu - with GPU Passtrough) so It'll be interesting to refresh some basics.
-  - (tutorial of above HVM can be found on my GitHub page)
-  - [ ]  C Programming: Using Linux Tools and Libraries 
+  - [x]  C Programming: Linux Basics: The Command Line Interface
+  - [ ]  C Programming: Using Linux Tools and Libraries **Last one - Currently here!** 
   - [ ]  **Professional Certificate inC Programming with Linux** Not Yet Done. **(Partially Completed)** (Coming trough! - and that is quickly..)
   https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/ 
 
 
 ### (Note,  I have programmed C and C++ long long before I begun the course, I just wanted a proof that I actually **know** programming, so that's why I am going for the Professional Certificate, Because without it I cannot be certain that I **know** programming, or even doing it the right way.)
 
+(I have used Linux and CLI a **lot** in my entire life, more than Windows - (I have even gamed on Hardware Virtualized Machines,(HVM) using Arch and Qemu - with GPU Pass trough) so It'll be interesting to refresh some basics.
+  - (tutorial of above HVM can be found on my GitHub page)
 
 --------------
 
