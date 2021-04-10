@@ -87,7 +87,7 @@ After after some time though, later I became very fascinated in a specific topic
 #### Certifications:
   - [x] Cryptography I Stanford University https://coursera.org/share/86b7ad20156fa1ec1eead7ddb5cba366  (**First course I completed at the age of 20 or so, 2020 September, 22:**)
   
-  
+   ## [x] Professional Certificate in C Programming with Linux Record    Earned 2021-04-11.
   
   - [x]  C Programming: Getting Started
   - [x]  C Programming: Language Foundations 
@@ -95,8 +95,12 @@ After after some time though, later I became very fascinated in a specific topic
   - [x]  C Programming: Pointers and Memory Management
   - [x]  C Programming: C Programming: Advanced Data Types
   - [x]  C Programming: Linux Basics: The Command Line Interface
-  - [ ]  C Programming: Using Linux Tools and Libraries **Last one - Currently here!** **Professional Certificate inC Programming with Linux** Not Yet Done. **(Partially Completed)** (Coming trough! - and that is quickly..)
-  https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/ 
+  - [x]  C Programming: Using Linux Tools and Libraries 
+ DONE.
+  Completed 2021-04-11-.
+  https://credentials.edx.org/credentials/fab4e78dc2674cea93498d6197836785/
+  
+  https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/
 
 
 ### (Note,  I have programmed C and C++ long long before I begun the course, I just wanted a proof that I actually **know** programming, so that's why I am going for the Professional Certificate, Because without it I cannot be certain that I **know** programming, or even doing it the right way.)
