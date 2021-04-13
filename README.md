@@ -15,11 +15,14 @@ Keywords: Stuxnet Fanny.bmp HDD-Firmware rootkit , Reverse Engineering, Malware 
 - Name:William Martens, goes by 'Will'
 - Topic(s) Interested in: Cryptography, Information security, Malware Analysis, Reverse engineering. Programming way too much at home.
 - Additional Comment(s)?:
- - - A Swedish - 20Y old, very curious person.
+
+- Right now, will take the OSCP. In a few days.  PWK-PEN-200, offered by [Offensive Security][https://www.offensive-security.com/pwk-oscp/]
+
+ - - A Swedish - 21Y* old, very curious person.
   - - Too much into computing, way too much into information security and encryption. 
-   - - Have done some HTB's (Hack The Box)e's (But not too many of them though!) 
+   - - Have done some HTB's (Hack The Box)e's (But not too many of them though!)
     - - Interested in Anything that malware/reverse engineering/Cryptography/Information Security has to offer.
-     - -Cannot get enough of Programming. 
+     - -Cannot get enough of Programming.
 
 
 
